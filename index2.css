@@ -1,0 +1,58 @@
+ h1{
+  color:rgb(85,75,45);
+  margin:10px 10px 10px 10px;/* move header to different position like    top right bottom left*/
+  font-family:Georgia, serif;
+  padding-left:70px;
+} 
+p{
+  padding-left:5px;
+  padding-right:2px;
+  padding-left:2px;
+}
+#orange{
+background-color:rgb(198,160,104);
+font-family:"Comic Sans MS", cursive, sans-serif;
+
+
+}
+#green{
+color:yellow;
+background-color:rgb(25,35,65);
+}
+#blue{
+color:orang;
+background-color:rgb(25,35,65);
+
+}
+#green{
+color:yellow;
+  background-color:rgb(25,35,65);
+  font-family:"Comic Sans MS", cursive, sans-serif;
+
+}
+#yellow{
+  color:yellow;
+  background-color:rgb(25,35,65);
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#dark{
+   color:yellow;
+  background-color:rgb(25,35,65);;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+
+}
+#orang{
+ color:yellow;
+  background-color:rgb(25,35,65);
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#light{
+ color:yellow;
+  background-color:rgb(25,35,65);
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  }
+#ligth 1{
+color:yellow;
+  background-color:rgb(25,35,65);
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
